@@ -1,164 +1,236 @@
-# KRTL / "Martinverse" — Story Arcs Handover
-*The war's development and the family's arcs. (The wider family/world context is assumed known.)*
+# KRTL / "Martinverse" — Month-by-Month War Chronicle & Family Combat Ledger
+*The Great Eastern War (Oct 1984 → late 1987), with the family's fighting woven through each month.*
 
-> Paste or upload this into a new claude.ai chat to continue the story. This is **narrative
-> only** — the dramatic shape of the war and where each character's arc stands — not the
-> worldbuilding bible. Reconciled to the **latest** canon; the corpus ends mid-sentence on a
-> context-window error, so the late acts are unfinished.
-
----
-
-## PART A — THE WAR (development arc)
-
-The dramatic spine: **a frozen line that becomes a trap → the unthinkable weapon used → near-defeat →
-the turn → liberation bought at terrible cost → a second crisis → the long tail.** The deeper theme:
-France built its whole life around a deterrent that was supposed to *never* be used; the war is the
-story of that doctrine dying, and of liberation paid for "in both directions."
-
-### Act I — The trap (prelude)
-- A Europe frozen along the **Tilsit Line** since 1944, with the captive nations behind it.
-- **19 Jan 1979 — the Centenary Rising** (Vilnius): the regime's posthumous celebration of Boris
-  Savinkov turns into revolt. Crushed by autumn. This is the **unhealed wound** the whole war exists
-  to redeem — the West armed the captive nations but could not cross a nuclear frontier to save them.
-  "Paris watches." The forward bases become symbols of impotence, not strength.
-
-### Act II — The detonation (Jun–Oct 1984)
-- **21 Jun 1984 (solstice dawn):** Russia invades the free **UNR**. The captive nations rise the next
-  day, believing the visible Western presence means rescue. The UNR's 40-year defense-in-depth ("a
-  clock, not a wall") bleeds the offensive and holds **Rivne ~4 months**. The Entente sends weapons
-  only — no air, no sea — because the UNR isn't an alliance signatory and nothing triggers.
-- Russia can't win without closing Poland. So it does the unthinkable: **22 Oct 1984, 08:00 — a single
-  fission bomb destroys Brześć.** That one act is *both* the broken nuclear taboo *and* the Article-V
-  trigger. **The genie is out of the bottle.**
-- France's answer, all in one day: Lucie's war address → the air umbrella grounds the bombers → **six
-  counter-force nuclear strikes** (rail junctions and the Kronstadt/Sebastopol fleets — *never cities*)
-  → Assemblée votes war **506–9**. **Mathieu's life-doctrine — "the card stays face-down" — dies here,
-  as tragedy, not vindication.**
-
-### Act III — The near-defeat (late 1984 → winter)
-- The Russian **GROM** offensive nearly wins it. The hinge is the **Battle of Warsaw / "Miracle at the
-  Vistula"** (30 Oct–5 Nov): the Polish ditch-hold at **Ossów**, the 501e RCC's arrival, the **blue
-  recognition flares** that become the war's enduring icon. *(Original event — no 1920 precedent.
-  Saved by flak, not air supremacy.)*
-- GROM crests at the **high-water mark** (Königsberg approaches, Kielce, the San); **Rivne is destroyed,
-  Lwów falls.** Then it collapses on its own logistics.
-- **Dec 1984–Mar 1985 — "L'Hiver des machines":** the front freezes and France out-produces the enemy.
-  The army behind the army.
-
-### Act IV — The turn (1985)
-- **17 Apr 1985, 06:14 — Russia nukes Königsberg** (its 5th attempt; three earlier bombs were
-  intercepted). This breaks Lucie's restraint: after deferring four times ("pas ce soir"), she orders
-  a city target list.
-- **19 Apr — Operation AURORE opens, and France retaliates against four cities** (Kaluga, Savinkovgrad,
-  Novgorod, Rostov; a deliberate double-ratio). Lucie prays the *Hail Mary*, then signs.
-- The conventional turn becomes a rout of encirclements: the **Kielce Pocket** → the **Battle of
-  Małopolska** (Joseph's "20th-century Cannae") → the strategic bombing campaign → the **liberation of
-  the captive nations**: Galicia and the UNR (Rivne retaken 3 Aug), Belarus (**Operation MARAIS**, Minsk
-  by 5 Oct), the Baltics.
-- **Aug 1985 — Katla erupts**, bringing the worst winter on record. It *should* kill the advance — but
-  France solved the cold (the **SIMOUN** fuel additive) and Russia didn't. **Operation DAVOUT** — the
-  decision to **not pause for winter** — becomes the pivot that pulls the whole ending forward.
-
-### Act V — Kyiv, then the summer crisis (1986)
-- **Apr 1986 — Operation VARANGIENNE / the Battle of Kyiv:** the largest engagement of the war; a
-  double envelopment of a city held since 1943. Restraint costs blood (you don't level the city you're
-  liberating) — culminating in the **Lavra massacre** (the white-flag column fired on, the storming,
-  the war-crimes reckoning carried through Marc's Assemblée testimony). **Kyiv falls 23 Apr.**
-- **3 Jun 1986 — two wars open at one dawn:** in the south France pushes to the Black Sea (MISTRAL);
-  in the north the **Russian Summer Offensive** erupts (Vitebsk).
-- The crisis: the **Mahilyow pocket** (a baited corridor of death — only ~a third break out), a ~200km
-  fighting retreat, and the **Second Battle of Minsk** — where a fresh **German army delivers the
-  relief.** *The emotional peak of the war: the nation that took Mathieu's leg in 1918 saves his
-  great-grandson in 1986 — the wound and the rescue in the same hand. The Coq and the Eagle, finally
-  shoulder to shoulder.*
-
-### Act VI — The long tail (late 1986 → 1987, mostly unwritten)
-- **Aug 1986** the Caucasus front reopens (Russia into Georgia); **Nov 1986** the Marine **forces the
-  Turkish Straits** ("Gallipoli done right") and opens the Black Sea.
-- **Winter 1986–87 — Operation OURAGAN:** the broad-front offensive that puts **French boots on Russian
-  soil for the first time since 1812.**
-- The war now runs **into late 1987** — Europe won first, the Near East (Caucasus, Turkey, the Straits)
-  the long tail; then the **Années de Plomb** open. **The actual endgame — Russia's collapse and the
-  fate of the regime — is unwritten.**
-
-**Arc rules that still bind:** the war does **not** end in Dec 1986 (that ending was un-fixed); Mathieu's
-doctrine stays dead; there is no nuclear shortcut for either side after the city strikes.
+> Paste/upload into a new claude.ai chat to continue. This is the **granular** handover:
+> Part A = the war month by month (day-by-day where the source has it), family beats inline
+> in **bold**; Part B = each family member's whole arc, rank-by-rank; Part C = continuity flags
+> (what's locked vs. un-fixed). Wider world/family context is assumed known. The corpus ends
+> mid-sentence on a context error, so the late acts (autumn 1986 →) are partly unwritten.
+>
+> **Plan XXI mobilization clock (load-bearing):** J+8 covering force forward · J+21 full
+> mobilization · J+28 of pre-stocked combat supply. France mobilizes every male national ≤28.
 
 ---
 
-## PART B — THE FAMILY (story arcs)
+# PART A — THE WAR, MONTH BY MONTH
 
-The conceit: **one family runs and bleeds for the Republic at once** — the desk, the map, the turret,
-the dispatch, the money. Below, each arc's through-line and where it's left.
+## 1984
 
-### The ones who decide
-- **Lucie (President).** Carries the nuclear decision alone. Arc: the agony of restraint (four
-  deferrals) → Königsberg breaks her → orders the four-city strike (faith colliding with mass death) →
-  governs *while* fighting (open schools, an environment law mid-war) → **survives the war, runs the
-  Années de Plomb into the 1990s.** Recuses herself from Joseph's CEMAT appointment to dodge the
-  nepotism charge — the family's sacrifice is her shield.
-- **Joseph (the desk-general).** Never fires a shot; wins the war from Brienne (Plan XXI, AURORE,
-  Małopolska, MARAIS, DAVOUT, VARANGIENNE). The tragedy: **his strategy consumes his own blood** —
-  Penthièvre captured, Georges taken, and then he must **sign his own nephew François into service.**
-  Keeps a red notebook of every dead soldier; checks his family's sectors each morning before coffee.
-  Arc end: rises to **CEMAT** on a withdrawal that cost his own. "The decision goes down, the names come back up."
-- **Étienne (Foreign Minister).** The diplomatic hand; spends the late war "begging" Entente capitals
-  for Caucasus troops, championing Armenia against Joseph's northern priority. The family's diffuser;
-  surrogate father to Georges; keeps a personal promise to deliver any news to Georges's grandmother himself.
-- **Mathieu & Gabriela (the dying founders).** Mathieu watches the adversary of his entire life fall
-  and his life-doctrine die before him; still sharp, crashes a Council session to defend his environment
-  law. Gabriela fades (the locket of their infant son). **Their deaths were locked to 1986, then un-fixed
-  when the ending was — timing now open.** The Élysée becomes a nursery; the wartime babies "save" the founders.
+### OCTOBER 1984 — the detonation & mobilization
+**The war.** Russia's nuclear strike on the logistics hub at **Brześć** clears the conduit and triggers everything.
+- **22 Oct (J+0):** Lucie signs the mobilization decree; the Assemblée votes war (**506–9**, ~23:00). France answers Brześć the same day with **six counter-force nuclear strikes** — military only, no cities — destroying the fleets at **Kronstadt and Sebastopol** and massed formations. Étienne hands the Russian ambassador the declaration at the Quai.
+- The Russian plan = **Operation GROM ("Thunder")**, the largest offensive since the 1944 "Yekaterina": **14 armies, ~2M men, ~5,000 tanks, ~1,800 km front** (Masurian Lakes → Prut), five axes. Calculation: win in three weeks before the J+21 army matures. They studied mass; they never modeled meeting a 3:1-superior air force. "Yekaterina was fought under a contested sky. GROM under a French one."
+- **Phase ROUGE (J+0–8):** Armée de l'Air pushes fighters to forward strips in 48h. **J+2 (24 Oct):** a D.900 downs a Russian heavy bomber near **Piotrków Trybunalski**; DGSS finds **an unarmed fission device** in the wreck — the regime has more bombs and will reuse them, delivery is by aircraft, and aircraft can be shot down. Nuclear air-defense becomes the single most important mission.
+- The covering force reaches the front **J+8 into a retreat**, not a line — the Poles have fallen back ~8 days (Siedlce, Łuków, Biała Podlaska, Mińsk Mazowiecki lost). The Russian decapitation drive runs down the **E30** toward eastern Warsaw.
 
-### The ones at the sharp end
-- **Élise (the soldier-protagonist).** Tank commander, 501e RCC. Arc: the law that let her serve →
-  baptism of fire at **Ossów** → the central front → **Kyiv** (concussed) → released south to the Black
-  Sea. Rises Sous-lt → **Capitaine** (Légion d'Honneur, Croix de Guerre ×3). The child who follows her
-  father's trade and keeps his kind of notebook.
-- **Penthièvre / "Chafi" (the prince in the line).** Saint-Cyrien from day one. Arc: squadron → takes
-  the **regiment** when his colonel is killed → takes the trapped pocket force → **tank knocked out 40m
-  short of the river → taken in by Belarusian partisans → fights the rest of the war behind the lines as
-  "Pan Karol."** Deliberately *not* a hero — one fighter in one cell, survives mostly on luck. **Reported
-  "disparu" in Paris. His return is unwritten.**
-- **Georges Diop (the engineer).** Orphan, half-Senegalese, raised by his French grandmother; Étienne's
-  surrogate son. Arc: builds the river crossings (5e RG) → **captured on his own bridge** → held in the
-  Russian east as a **racial "circus exhibit,"** measured with calipers, refusing to perform. The hinge:
-  **he doesn't know he's a father** until a 25-word ICRC message reaches him. **Repatriation and the
-  father–son reveal are unwritten.** (His son is legally *Pierre Amédée* — the naming law barred *Amadou*.)
-- **Marc (the chaplain).** Jesuit, speaks Russian. Arc: last rites across the front → **the Lavra**
-  (evacuates 409, survives the massacre, takes a dead man's pistol but never fires it) → **testifies
-  before the Assemblée** → a permanent hand tremor; keeps his Croix de Guerre in a closed drawer.
-- **Andy Carington (the in-law in British uniform).** Coldstream Guards. Arc: holds the
-  Königsberg/Baltic flank → **runs into the nuclear footprint on rescue duty (17 Apr 1985)** → radiation
-  sickness (recovers; no cancer, lifelong surveillance) → **Victoria Cross**, Captain → Major → comes home
-  and meets the son born while he was away.
-- **The rest, briefer:** **Simon** (infantry, the Paton Bridge, Médaille Militaire — "the bridge he won't
-  speak of for eleven years"); **Paul** (submariner hunting Russian boats in the Arctic); **Louis Henri**
-  (député-turned-gunner, pulled the lanyard that opened AURORE); **Daniel** (combat engineer, learns he's
-  a father when Minsk falls); the **d'Orléans brothers** Chartres and Montpensier (foot soldiers in the line,
-  Montpensier shadowing his cousin Simon); **François** (the youngest, conscripted by the war-decree — **posting
-  deliberately left open**).
+**The family.** Only two are in the fight at the outset. **Paul** (sonar, SNA *Casabianca*) is under the Baltic at war stations on **J+0**, "before the Assemblée finished voting." **Élise** (Sous-lt, 501e RCC, CdC G4) rolls her tank onto a flatcar at **Mourmelon on J+1 (23 Oct)** — the first heavy French formation east — and detrains at **Łódź on J+8**, driving toward a front coming at her. **Lucie** holds the nuclear folder; **Joseph** (Major-Général, Brienne) reads the falling towns standing; **Étienne** delivers the declaration. Everyone else is days or weeks from the front.
 
-### The ones who wait (home front)
-- **Constance** — Georges's wife; the "disparu" telegram crushes her; she buries grief in work at the bank.
-- **Nounette** — Andy's wife; carries her wartime pregnancy and refuses to tell him by letter.
-- **Sarah, Isabelle, Sylvie** — the other waiting women; Sylvie announces her pregnancy by letter and names
-  the baby as a leash on her husband.
-- **The five "enfants du dernier soir"** — conceived the week of the declaration, born ~Aug–Sept 1985 while
-  their fathers fight, several fathers not knowing: **André** (Andy), **Loulou** (Louis Henri — third bearer
-  of the founders' lost-son name), **Claire-Marie** (Daniel), **Pierre Amédée Diop** (Georges), **Esther
-  Béatrice** (Thierry). A recurring motif: biology answering the mobilization decree; new life against the count of the dead.
+### NOVEMBER 1984 — the Battle of Warsaw & GROM's high-water mark
+**The war — the Battle of Warsaw / "Miracle at the Vistula" (J+8–14, 30 Oct–5 Nov).** *The original Miracle — no 1920 echo. The legend is born here.* Fought on the real eastern-approach ground: **Radzymin** (north pivot), **Ossów/Wołomin** (south pivot), the **Wieprz** (counterattack anchor). Three Guards armies, ~2,000 tanks on ~40 km.
+- **30 Oct (J+8):** Russian 16th Guards Army hits **Radzymin**; anti-tank ditches channel the armour; **~60 tanks lost, no ground** — Radzymin holds day one.
+- **31 Oct (J+9):** **Radzymin falls at midday**; the highway opens, 23 km to Warsaw. **At 14:00 the 501e RCC reaches Ossów**; **first shots at 15:47, 1,800 m** — three tanks burn in the opening minute. Four night assaults; **Ossów holds** (church/school change hands at bayonet point).
+- **1–2 Nov:** **Radzymin changes hands three times.** All Saints' Day — Warsaw's bells carry to the front. **2 Nov, the worst day:** Russians commit their last fresh Guards division; the Vistula bridges come under field-artillery fire (two shells hit the Poniatowski Bridge). A Polish commander radios *"I have positions and no men."* Joseph, seeing 14 km between front and river, phones SNCF: **"Accélérez le Deuxième Corps. Maintenant"** — pushing the IIe Corps **three days ahead of timetable.**
+- **3 Nov (J+12):** the D.900s break the Russian air over the sector; **at 06:00 the Wieprz counterattack crosses** (a French armoured division + two Polish brigades); **at 06:12 they fire the blue flares** (*bleu de France*, three every two minutes) so the exhausted defenders don't fire south — *"Niebieskie flary! Francuzi!"* The counterattack severs the Russian supply and signals net.
+- **4–5 Nov:** the offensive unravels. **Radzymin taken for the last time, 4 Nov** (the flag-on-the-rubble photograph). **By 5 Nov the assault on Warsaw is finished** — the Guards armies destroyed; **400+ tanks** littering the approaches.
+- **Cost:** Russians 400+ tanks; the **501e lost 14 of 54 G4s, 38 dead, 100+ wounded** across the battle. Honour: **OSSÓW 1984**; motto **PREMIERS AU COMBAT.** (Locked: Warsaw was held under a *contested* sky by **AA batteries**, not air supremacy — that comes J+21–28.)
+
+**GROM's high-water mark (late Nov)** then dies on its own logistics: **Warsaw and Lublin hold**, but the **UNR is destroyed and Lwów falls**; the southern drive reaches **Kielce**; in the south Russia is across the Prut, **STEFAN/Iași is overrun** (French fall back to **Bacău**); the catastrophe is the north — three Russian armies reach **15 km from Königsberg**. The cruel lesson: **Plan XXI was a perfect mobilization plan, not a battle plan** — the army arrived on time and found the war in the wrong place.
+
+**The family.** **Élise** holds the Ossów line (Ier Corps) through the battle — kills the first wave again on All Saints', burns three more tanks in a sunflower field, meets **Sergeant Kowalski** of the Polish 1st Division at the ditch (*"Pozostajemy — we're staying"*), and radios "Ossów tenu" back to her father. The deployment waves bring the rest forward: **Penthièvre** (Sous-lt, 1er Cuirassiers, Saint-Cyr just accelerated his class) arrives ~J+12 with the IIIe Corps; **Daniel** (Caporal, 13e RG) and **Georges Diop** (Sous-lt, 5e RG) with the engineers; **Marc** (chaplain, Ier Corps rear) is behind Ossów holding the dying. Late month brings **Simon** (Soldat, 3e RI, turns 19 in a trench), **Louis Henri** (Caporal, 40e RA, 155mm), and **Andy** (Capt., 2nd Bn Coldstream Guards) to the front — Andy reaches the **Pregolya at Wehlau** (~50 km E of Königsberg), where a night river-probe leaves *"7 Russian dead on the western bank, 2 in the river, none of his own."* **Joseph's** SNCF order is what won the battle.
+
+### DECEMBER 1984 – MARCH 1985 — "L'Hiver des machines"
+**The war.** The front freezes (rasputitsa → ice); fighting halts; the war moves to industry (Décret N° 84-1312). The Lorraine corridor runs **120 military trains/day** (40,000 railway workers). By **March 1985** France has built **~340 D.900 fighters, 180 MB.340 Baignoires, 220 CdC G4 tanks, 4.2M 155 mm rounds** — Entente output ~4× Russia's and widening. The lowest ebb: the full army is forward but liberation will take a year of attrition; Königsberg is surrounded on three sides; the nuclear shadow holds (three bombers down by J+14, all weapons recovered unarmed, a D.900 nuclear CAP flying 24/7).
+
+**The family.** **Philippe & Claire** run the SNCA production (Toulouse/Bordeaux-Mérignac, three shifts) — "the army behind the army." **Andy** holds the frozen Pregolya line. The front soldiers hold and wait. On **J+14** Lucie, Étienne and Joseph break their "family ends at the door" vow over the nuclear folder; Joseph recommends a second counter-force strike; **Lucie: "Pas ce soir"** — the first of four deferrals.
+
+## 1985
+
+### APRIL 1985 — Königsberg, the four-city retaliation, and AURORE
+**The war.**
+- **17 Apr, 06:14:** the **fifth** nuclear bomber gets through — low over the Baltic, below the radar floor, through a **40-second gap** in the D.900 CAP — and airbursts ~20 kt over **Königsberg** (the second city nuked after Brześć; tens of thousands dead; fallout drifts over Lithuania).
+- **18 Apr:** Lucie ends the restraint — convenes the war cabinet (Salon Murat, 18:00) and demands a list of Russian cities in 24 hours: **"Le temps de la retenue est terminé."**
+- **19 Apr — the same decision, timed to the hour:** **Operation AURORE** opens with a 90-minute, 14,000-gun barrage at **05:00** (the winter's 4.2M rounds), 13 hours before the bombs. The **four-city retaliation** ("two for Brześć, two for Königsberg"): **Kaluga, Savinkovgrad** (ex-Tsaritsyn, renamed 1979), **Novgorod, Rostov**. Savinkovgrad and Rostov delivered by **MB.350 bombers from MASSIS/Zvartnots, Armenia** (lifting 14:00); Kaluga and Novgorod from **Kraków-Balice** (14:30); **detonations 15:12–16:47.** Lucie prays the *Hail Mary*, signs in full (**MARIE-LUCIE AUGUSTINE MARTIN-LAURENT**), and addresses the nation at 20:00 (in black), locking the 2-for-1 ratio publicly.
+- Russian forward troops hold for hours — then learn of the cities at nightfall, and desertion becomes a flood. **By end-April the front has moved ~50 km east; Kielce is liberated, the Holy Cross Mts cleared, Suwałki widened, the Siret crossed.** Pace = the grind, ~10 km on a good day.
+
+**The family.** Each unit crosses the line of departure at H-hour: **Élise's 501e at Ossów, 06:32** (through wire **Daniel's 13e RG** cleared overnight); **Penthièvre's 1er Cuirassiers south of Radom, 06:45** (over the Radomka **Georges's 5e RG** bridged in the dark); **Simon's 3e RI** on foot behind the armour; **Louis Henri "pulls the lanyard"** opening the barrage. **Andy** is at battalion HQ 4 km from Königsberg at the airburst — uninjured by the blast, he then **walks into the burning city at 09:00 with 12 men and works the nuclear footprint six hours**, carrying survivors from cellars, breathing the dust nobody yet understood. **Lucie** makes the city decision; **Joseph** stands ready to execute "whatever you decide."
+
+### MAY 1985 — the great encirclements (Kielce Pocket & Małopolska)
+**The war.**
+- **Kielce Pocket (22 Apr–3 May):** a Russian salient (3 armies, ~140,000) in a 60×100 km bulge; Moscow forbids withdrawal. Northern pincer = **IIIe Corps (1er Cuirassiers)** from Radom; southern = **IIe Corps** up the San. **27 Apr** strategic air drops the Vistula bridge at **Sandomierz**; **29 Apr** the neck shuts; **3 May — surrender at Sandomierz, 62,000 prisoners** (largest since the Reconquête).
+- **Battle of Małopolska — Op FOUDRE (2–14 May), "the 20th-century Cannae":** Joseph's design to trap Russian **Army Group South** (~280,000) by cutting its one supply corridor at **Jarosław. 2 May:** IIIe Corps crosses the Vistula 04:00, 60 km by nightfall. **3 May:** MB.350s drop the San bridges by 09:00 — the Russian withdrawal order comes 12 hours too late. **4 May:** 1er Cuirassiers take **Jarosław** — 280,000 trapped. **14 May — surrender:** **194,000** men handed over (600 tanks, 1,200 guns). French cost 1,200 dead. Joseph, who fired no shot, is placed beside Moltke/Grant/Kléber.
+
+**The family.** **Penthièvre's 1er Cuirassiers** are the spearhead of both encirclements — across the Vistula on D-Day, driving through Jarosław west-to-east to cut the corridor. **Georges's 5e RG** bridges behind the armour. **Andy:** the radiation arrives in early May (fatigue → nausea → hair on the pillow); **evacuated to Hanover** mid-month — the advance goes on without him.
+
+### JUNE 1985 — the Tilsit Line reached; Lwów liberated
+**The war.** AURORE + the bombing push Russia back to the **Tilsit Line by mid-June** — which it can't stop to defend. The **Athens Pact summit** votes unanimously to push to the **pre-1941 borders**: *"France did not fight to restore the Tilsit Line. France fought to erase it."* The **Galician campaign** (May–Jul) crosses the San at Przemyśl (20 May) and encircles **Lwów** — **liberated 13 June** (a *Polish* city, white-and-red flag; the UNR's blue-and-yellow liberation begins further east at Brody/Ternopil across Curzon Line D).
+
+**The family.** **Penthièvre's** 1er Cuirassiers lead the column into Lwów. **Georges's** engineers rebuild the Przemyśl bridges the MB.350s had just dropped. **The home front (the births begin):** the **five "enfants du dernier soir"** — conceived the week of the declaration — start arriving. **André Charles Carington** (Nounette & Andy) is born end-June; Andy, in a Scottish convalescent ward, doesn't know.
+
+### JULY – AUGUST 1985 — Operation MARAIS (Joseph's masterpiece; the KRTL Bagration)
+**The war.** Everyone says the **Polesian/Pripyat marshes** are impassable; **Joseph says "through"** (the Russians under-defend Belarus *because* of the swamp). Two weeks of engineering — **corduroy roads, the Pripyat bridged at 12 points** — then the **1 August** advance through three corridors. Russian command refuses to believe French armour is at **Pinsk (2 Aug), Luninyets (5 Aug)**; the breakout makes 30–40 km/day across the open plain; **Babruysk falls 20 Aug, Mazyr 25 Aug**; the **Pakt Kryvi** resistance rises, the white-red-white flag goes up town by town.
+
+**The family.** **Daniel's 13e RG and Georges's 5e RG** build the corduroy roads and the 12 bridging points — MARAIS is an engineer's victory before it's a tanker's. **Penthièvre** rolls the central causeway at 20 km/h; **Simon** walks the southern Styr corridor. **Élise's 501e** fights east on the northern axis — **the engagement at Kremenets (18–19 July)**, close urban fighting against a dug-in Russian brigade (23 killed, 67 wounded, the heaviest since crossing the line), then enters the UNR capital **Rivne** as the exile government flies in. **More births:** **Claire-Marie** (Daniel & **Isabelle**) in July; **Pierre Amédée Diop** (Constance & Georges, *Amédée* because the naming law bars *Amadou*) and **Esther Béatrice** (Sarah & Thierry) by late summer.
+
+### SEPTEMBER – OCTOBER 1985 — Minsk, the Baltics, and the long fall
+**The war.**
+- **MARAIS final phase:** Minsk encircled from south (Franco-Polish) and north (German-British via Barysau); the ring closes **28 Sep. Minsk does not surrender** (VRBO shoots two officers on day two) — **assault 1 Oct, falls 5 Oct** after brutal urban combat (**French: 1,400 dead, 3,000 wounded**). Joseph's plan said three months; it took exactly three. *Moltke. Grant. Kléber. Martin.*
+- **Vinnytsia (south):** the **Southern Bug crossing costs Georges's 5e RG 43 dead in six days**; **Vinnytsia falls 11 Oct.**
+- **The Baltics:** **Kaunas liberated 8 Sep; Vilnius besieged 22 Sep, falls 19 Oct** (27-day siege; the Lithuanian exile government flies to Kaunas 23 Oct).
+- The autumn **rasputitsa** halts movement; the front stabilizes Vilnius–Minsk–Babruysk / Zhytomyr–Vinnytsia. **Casualties at ~12 months: ~22,000 French dead.**
+
+**The family.** **Georges** is on the third pontoon at the Bug when it takes a direct hit; **he holds a 19-year-old sapper above the water until a boat reaches them** (the other man drowns). **Marc** gives last rites eleven times on 3 October at Minsk and stops counting. The two engineer-fathers learn of their children **when Minsk falls and the mail catches up**: **Daniel** reads of Claire-Marie "in a doorway on a street he can't pronounce"; **Georges** learns he's a father. **Andy** is **medically released (October)**, **VC gazetted, promoted toward Major**; flown home, **Pierre** fetches him at Orly, and **Nounette tells him about André in person** and puts the boy in his arms. **Élise** refits near Rivne and writes **Rémi Caron** (her petroleum-engineer boyfriend at Grandpuits) that she wants a child when she's back.
+
+### NOVEMBER 1985 — Operation DAVOUT (the "no winter pause" — the decision that pulled the war's end forward)
+**The war.** Joseph's plan (presented Salon Murat, **8 Nov**): **no winter quarters** — fight through Dec–March so Russia enters spring weaker, not rebuilt. Three axes: **NORD** (→ Riga), **CENTRE** (→ Orsha/Mahileu), **SUD** (→ Uman/Dnieper). Day-by-day highlights: **Battle of Uman (18–22 Nov)** — Élise's 501e breaks the southern line (19th), Penthièvre's Cuirassiers kill 6 tanks for 2 (20th), **Uman falls 22 Nov**; the same day the **siege of Riga begins**. **24 Nov: Joseph's fifth star** (général d'armée) is gazetted (FN forces the vote; passes with one dissent). **Orsha** assault opens **26 Nov — 91 dead in one day**, the heaviest since Warsaw; **frostbite casualties exceed combat casualties for the first time.** End Nov: **~23,500 French dead.**
+
+**The family.** **Élise** breaks the line at Uman and drives into the Russian rear; **Penthièvre** fights off an armoured counterattack from an orchard. **Joseph** earns the fifth star (a 40-second congratulation call from Étienne: *"It's minus twelve in Minsk this morning"*) and authors DAVOUT.
+
+### DECEMBER 1985 — the winter advance (day-by-day)
+**The war.**
+- **3 Dec — Orsha falls** (the garrison blew the Dnieper bridges; 1er RG laid a pontoon under fire at −18°, two sappers drowned; 8-day battle: **214 dead, 600 wounded**).
+- **Riga:** the salt Daugava won't freeze until **12 Dec (−26°)**; German battalions + a Latvian company **cross 30 cm of ice 16 Dec**; Leopards cross on reinforced ice 18–19 Dec; **Riga falls 22 Dec** (the VRBO command found shot in the Blackheads' House basement). **Christmas Eve: the Latvian flag over Riga Castle** — second captive nation freed (Lithuania first).
+- **Smila (14 Dec):** Penthièvre loses 4 tanks to a concealed AT battery. **Mahileu falls 28 Dec.** **26 Dec:** first Entente troops on Estonian soil. End-year: **~25,000 French dead** (later recalibrated upward); Lithuania, Latvia, Belarus freed.
+
+**The family.** **Penthièvre** survives Smila (the tank beside his does not). **Élise** leads the armour toward the Dnieper and starts **losing G4s to the cold** (cracked engine blocks at −25°). **Marc** says **Christmas Mass in a barn, in Latin** ("the language that belonged to no nation"). At the Élysée, **Étienne** serves ice cream to **Mathieu, Gabriela** and the small children ("Saturday rules").
+
+## 1986
+
+### JANUARY 1986 — the deep cold and the first mutiny (day-by-day)
+**The war.** DAVOUT continues; **no pause.**
+- **3 Jan (−28°):** 31 men evacuated for frostbite in 48h; Joseph issues the **thirty-minute rule** (warming-tent rotation).
+- **4–9 Jan:** Élise's 501e loses tanks to cracked engine blocks until **SNCA heating blankets** (designed in 48h by Philippe & Claire's plant) reach the front on the 9th and stop it.
+- **6 Jan: Pärnu falls** (Estonia) — "the liberation preceded the liberated."
+- **9–22 Jan — Battle of Krasny:** three failed frontal assaults (**38 dead day one**); Joseph orders a **bypass**, not a fourth assault; the town is encircled. **22 Jan — Krasny surrenders, NCOs marching the officers out under guard: the first mutiny the Entente witnessed** — *"we have resolved the question of command."* A prisoner explains it: not ideology, **arithmetic** (the officers ordered a breakout that would cost 1,000 dead "for nothing"; the NCOs refused).
+- **29 Jan: −31°, the coldest day of the war** — three men die of exposure when a tent stove (rated only to −15°) fails. End Jan: casualties **recalibrated to ~50,000 French dead.**
+
+**The family.** **Élise's** January dead (named in her letter to Joseph): Sgt **Morin** (21, killed on the Dnieper ice at Moshny, 16 Jan), Cpl **Ferretti** (both feet amputated to frostbite), Sdt **Bazin** (19, died of hypothermia 29 Jan when the under-rated stove failed). **Joseph's reply:** he keeps every dead man's name in a **red leather notebook** (Esther's 1982 gift), reads the reports each morning before coffee looking for his family's names, phones the Navy for Paul — and **signs the requisition for arctic stoves across the southern front, deadline 15 February.** His troop nicknames: **Le Boucher de Brienne, Martin-sans-gants, Le Frère.** On the home front, **12 Jan:** Lucie finds **Mathieu and Gabriela** with blue lips at Mauvières and moves them into the **Élysée** that evening.
+
+### FEBRUARY 1986 — the border hold and SIMOUN
+**The war.** The front reaches the pre-1941 border; **20 Feb the restricted council decides the army will NOT cross into Russia proper** — the war aim is liberation, not invasion (probing only). **First days of Feb: SIMOUN reaches the eastern depots** — the clay-derived anti-gelling fuel additive (discovered at CFP Berre, Dec '85; the thematic inversion of the **Katla** volcanic winter: France solved the cold, Russia didn't). **15 Feb: the arctic stoves are confirmed delivered — Joseph's deadline met, no repeat of Bazin.** Russian desertions run 50–80/week. End Feb: **~51,500 dead.**
+
+**The family.** **Montpensier** (Philippe d'Orléans, Sophie's third son, conscripted Jan '86) **arrives at the 110e RI on 12 Feb** — "eighteen, knows nothing." **Élise** detrains at **Bila Tserkva (24 Feb)** to stage for the Kyiv operation.
+
+### MARCH 1986 — Operation VARANGIENNE (the approach marches)
+**The war.** Joseph's design: a **double envelopment** of Kyiv (Russian since 1943). SOUTH pincer = Ier Corps from Bila Tserkva; NORTH = IIIe + IVe Corps + Belarusian + Polish corps **across the frozen Pripyat marshes**. **First causeway laid 15 Mar** (Simon's 3e RI crosses first); a single G4 is tested across a Class 50 span **20 Mar**; by **23–26 Mar** the northern pincer **emerges** behind the city, paralysing the garrison HQ (which expected a southern assault). By month's end **~280,000 Entente troops** form a semicircle SW-to-NW; **the ring is deliberately left open to the east** — Joseph wants the garrison to choose, with the breaking-up Dnieper at its back.
+
+**The family.** **Georges's 5e RG builds the Pripyat causeways** — the highway through a frozen swamp that makes the whole northern pincer possible (he walks the first 10 km probing ice with rods). **Simon** is the first French soldier into Kyiv oblast from the north (reaches **Dymer**); **Penthièvre** emerges onto the Irpin axis (24 Mar); **Louis Henri's** 155s cross the last causeway (28 Mar); **Élise** halts hull-down at **Vasylkiv**, Kyiv's towers in the haze. **Élise's concussion:** a mortar round lands 4 m from her turret, slamming her helmet into the sight; she finishes the action, reports "fine," isn't — and is sent to the **Vasylkiv aid station, where she finds Marc** saying a field mass. He gives her petrol-station sunglasses "meant for the dying."
+
+### APRIL 1986 — the Battle of Kyiv (23 days) and the Lavra
+**The war — the geometry of restraint (locked ROE).** **East of Kyiv (the open gap) = kill zone:** everything *entering* is bombed, everything *leaving* is let go (desertion as a weapon). **West = restraint:** no strategic bombing, no civilian-area artillery prep, fires individually approved — because France can't destroy what it's liberating, and Russia (holding Kyiv 43 years) can't abandon what it claims.
+- **1–7 Apr:** SOUTH advances (day one costs 93 men); platoon rearguards at every crossroads. **2 Apr, Khotiv:** Élise's tank track is mined, her wingman's G4 hit at the turret ring. **Bucha (4–6 Apr) costs 200 dead** until **Georges lays an assault bridge under mortar fire** (3 engineers killed). **7 Apr:** clearing Obolon's housing blocks, **Simon makes his first kill** — a Russian waiting in a bathtub who has just killed two of his section (yellow-flower wallpaper, a child's shoe in the hall).
+- **8–12 Apr:** the ring closes on the west bank; Moscow sends a last "hold" order and a commissar detachment through the gap. **A million civilians trapped**; bread runs out 10 Apr; a *Russian* shell hits the Podil pumping station (11 Apr) and the water fails.
+- **13–17 Apr:** street fighting up the parallel avenues; **14 Apr, Holosiivskyi: Élise loses 3 G4s in a day and watches a crew's driver burn alive (jammed hatch) from 40 m — and does not stop.** Podil's wooden quarter burns two days. **Louis Henri's 155s** fire on the Pechersk bunkers from 15 km — "killing the city he voted to liberate, one fire mission at a time."
+- **18–20 Apr — Pechersk heights & the Lavra.** Joseph's order on the monastery: **"Ne tirez pas."** (Russia here is the religious Savinkovist state — the Lavra is its exalted jewel; the officers are SZRS *believers*, not Soviet commissars.) **~1,400 French dead on the heights alone** (the infantry pays in names what artillery would have settled in a day). **The Lavra episode** (Marc's arc — see below).
+- **21–23 Apr — the Dnieper crossing.** **Simon's 3e RI draws the Paton Bridge (1,200 m), 21 Apr 05:00:** the smoke drifts wrong, MGs open at 200 m, **47 of 120 reach the far side** and assault with bayonets. **Georges builds the pontoon alongside — 18 hours under mortar fire, 4 engineers killed, he never leaves the bank.** Élise crosses on it at 01:00, 22 Apr. **Kyiv falls 23 Apr, 17:00 — the blue-and-yellow up on the Khreshchatyk for the first time in 43 years.**
+- **Cost (VARANGIENNE):** **~12,800 French dead**; ~19,000 Russian; 38,000 prisoners; 4,000–8,000 civilians. The Lavra stands; Podil burned, Pechersk cratered.
+
+**The family — Marc and the Lavra.** Sent in **19 Apr, 06:00** because he speaks Russian, Marc delivers surrender terms inside the immaculate, gold-leafed compound (47 wounded Russians bandaged in liturgical silk; 312 starving civilians in the catacombs). He **walks 409 people out under a white flag** — and at 200 m **the column is fired on** (the front bearers, the woman from flat 14, "the child who stopped running"). Marc goes down, **takes a dead Russian's Nagant, and holds it 40 minutes shielding a child — finger outside the guard, never fires.** The French perimeter storms the gate in 14 seconds (a medieval Dormition window destroyed; the bells hold). Toll of the column: 17 civilians, 3 soldiers, 2 monks. **His hands begin a tremor that never fully stops; he can't hold the chalice; no mass for three days.** Then the **Assemblée firestorm:** Brienne blocks 11 of 12 summoned witnesses ("engaged in ongoing combat"); only Marc can be spared. **23 Apr he testifies** in dress uniform, refusing to touch the glass of water so the camera won't see it shake — narrating the column, *"À deux cents mètres de la porte, ils ont ouvert le feu,"* and *"j'avais moi-même une arme dans la main."* At the end **he lifts the untouched glass; the water trembles on camera; the evening news leads with it.** (Étienne built him a procedural shield — "the President has not read your deposition," true because Étienne told her nothing.)
+
+**The family — the convergence.** **25 Apr, 16:00: Marc says the "Martin Mass"** in a roofless Kyiv church — **seven of the twelve in uniform in one city** (Élise, Penthièvre, Georges, Simon, Montpensier, Louis Henri, Marc). His hands shake, the wine spills. *"On est sept. Il en manque cinq"* (Andy at Tallinn, Daniel at Türi, Chartres at Lake Peipus, Paul under the sea, Thierry at the Łódź depot). **Élise** is promoted **Capitaine** for Kyiv; **Simon** earns the **Médaille Militaire** for the Paton Bridge; **Penthièvre** makes **Capitaine**; **Georges** makes **Lieutenant**. **25 Apr Georges's engineers restore the Podil water.**
+
+### MAY 1986 — Tallinn taken; the south restaged
+**The war.** Ier Corps stands down in Kyiv 72 hours, then is **released south to the Inhulets** for a crossing set **3 June**; IVe Corps (Simon, Montpensier, Louis Henri) holds Kyiv; **Georges's 5e RG is sent north** for the Tallinn assault. **Tallinn (8–22 May):** prep fires + Baignoires 8 May (first trench line in 40 min); the second line costs the British 200 men (11 May); **Georges blows an 800 kg breach in the third line (16 May)** and **Chartres's 152e RI pours through at dawn**; **Tallinn falls 22 May** — the Estonian flag over Toompea. **Andy receives the Russian surrender delegation on Pikk Street**, guarantees their safety, and kicks it up the chain (the formal surrender is signed by the British/German/French commanders).
+
+**The family.** **Andy** (now **Major + Victoria Cross**) leads from the front through all three Tallinn lines ("the first man through the door") and takes the surrender contact; the *Times* runs his photo front-page (24 May), and **Nounette sees it before his letter.** **Daniel** (now **Sergent**) clears a 300 m mine lane at night under the second line (two engineers wounded in extraction; he finishes it). **Chartres** (now **Caporal**) leads the breakthrough at the third line. **Georges** blows the breach. **Élise's Ier Corps** detrains on the Inhulets (23 May); she privately finds the river "manageable after the Dnieper."
+
+### JUNE 1986 — the twin dawn and the Russian Summer Offensive
+**The war.** The Vitebsk blow is **not a spasm but the opening of Russia's last campaign** — months in preparation, every reserve scraped up, aimed at the **seam** between the Baltic and Belarusian fronts to cut the front in two. A 40-hour weather blackout (31 May–2 Jun) hides the concentration.
+- **3 June — two wars at one dawn.** SOUTH: **Operation MISTRAL** opens; the Inhulets crossing goes in at first light (Ier Corps + Canadians + Italians) — for six hours it's all Brienne watches. NORTH: at **04:50** the Russians attack out of **Vitebsk** at the army-group boundary; the seam gives; **8 km deep by nightfall.**
+- **4 June:** Joseph at the map at 02:00 reads the axis (the Polotsk–Minsk corridor); **suspends GLAIVE**; orders **Penthièvre's 1er Cuirassiers to pivot 90°** from facing Smolensk to facing the threat. Salient → 15 km.
+- **6 June:** the spearhead reaches the lateral corridor; for **~72 hours the two fronts are functionally separated.**
+- **7 June:** the weather breaks — the 25 km salient, packed on the roads and out of fuel with no air cover, is "the most target-rich ground of the war"; the Baignoires work it all day, and **Georges's engineers drop the bridges behind its tip**, sealing it.
+- **9–12 June — the Lepiel pocket:** Joseph closes the jaws (Penthièvre's IIIe = southern jaw); the leading Russian armoured echelon is cut off and **surrenders in pieces — tens of thousands of prisoners.** But a **second echelon is still coming;** GLAIVE is dead for the summer.
+- **16–25 June:** Russia shifts weight to the **Dnieper at Mahilyow**; the IIIe, caught mid-move, ends up holding the city and river center as the new thrusts go around its flanks; the jaws converge behind Mahilyow and **Penthièvre is cut off — the pocket forms.** Brienne orders the **general withdrawal to the Minsk–Daugavpils line.**
+
+**The family.** **Élise** is across the Inhulets by midday on 3 June; her first real squadron action follows (5–6 June, Garnier kills two tanks). **Penthièvre** pivots his regiment and fights as the southern jaw at Lepiel, then is caught in the Mahilyow trap. **Georges's** engineers seal the Lepiel salient. **Joseph** reorients the whole theatre overnight.
+
+### JULY 1986 — the Mahilyow pocket and the long retreat
+**The war.** The Mahilyow pocket is a fusion of Stalingrad/Falaise/Korsun: the corridor west narrows to a 4 km tongue cut by the **Drut** (bridges already blown); the Russians leave it *looking* open as a pre-registered kill sack. The **relief (de Marolles's IVe Corps, railed from Kyiv) gets within ~3 km and stalls short.** **Only the rearguard is trapped** (a reinforced-regiment slice — not the whole corps; Roquefeuil pulled the corps body out in time). **~one-third breaks out (11 of 31 tanks).** Meanwhile the whole Belarusian front conducts a **controlled ~200 km fighting withdrawal to the Minsk–Daugavpils line — the first sustained Entente retreat since winter '84**, and the word *retraite* hits the Paris papers. **Britain commits a fresh army by sea to the Baltic flank.** The south is frozen all month (MISTRAL stalled at Kherson, every reserve gone north).
+
+**The family — two telegrams.** When the rearguard's command post is wiped out (Col. **Aubertin** killed), **Capitaine Penthièvre, 23, becomes senior surviving officer and takes first the regiment, then the pocket.** He coordinates a Drut crossing at **Choklovo** with **Georges**, gives the rearguard the "cork," and leads the breakout — then realizes the open mouth is bait (*"C'est un piège et nous sommes dedans… Celui qui s'arrête meurt"*). **His tank is knocked out ~40 m short of the Drut: gunner Tanguy and loader Le Goff killed, driver Mahé burned;** the last runnable tanks cross without him (his own "no one stops" order), and **on the third night Belarusian partisans take him in — recognized by his uniform — nom de guerre "Pan Karol."** His practical Saint-Cyr Russian gives the cell "ears" (he reads radio nets and interrogates prisoners); **"the Professor"** (a Minsk historian) recognizes the Bourbon name and keeps the secret. He is **not a hero** — one fighter in one cell among thousands, surviving the winter mostly on luck. **Georges is captured on his own bridge at Choklovo** — staying to the last to drag a wrecked half-track off the decking so the final vehicle can cross; the span his hands built saved a third of a corps and fixed him to be taken. **Two "disparu" telegrams start west to Paris** — over Sophie's son and Constance's husband — and the family "grieves two men who are alive." **Élise** (in the stalled south) reads the despatch ~10–15 July and does "the arithmetic of being unable to help."
+
+### AUGUST 1986 — Second Minsk, the Caucasus, and Ukraine sealed
+**The war — the Second Battle of Minsk (4–16 Aug), day-by-day.** A coalition front: the **1st Belarusian Army** holding its own capital, French on the approaches, Poles south, the fresh **British army** on the seaward north; behind them, nothing — but unseen, **a fresh German army** at the railheads.
+- **4 Aug:** opens with the heaviest bombardment since June; the forward line holds day one.
+- **5–7 Aug:** the line bends back into the suburbs; urban battle (Mahilyow's polarity reversed — the coalition now defends the streets).
+- **8 Aug — the worst day:** the eastern half of Minsk is contested house by house; Joseph at Brienne knows one more push takes the city and **he has no reserve to give.**
+- **10 Aug — the German counterstroke:** the fresh German army strikes the salient's flank — armour cresting the rise under the **Balkenkreuz and Reichsadler**, a German **Leopard** and a French **G4** hull-down 40 m apart firing east together. The Russian shoulder caves. *"Jamais dans l'histoire de France un Français n'a prié aussi fort pour que les Allemands arrivent."*
+- **12–16 Aug:** the salient collapses; **the last Russian offensive of the war is destroyed** as an attacking force. News of the victory reaches Paris in the same week as the two *disparu* telegrams — triumph and grief in the same house.
+
+**Caucasus (12 Aug):** after a 2-year lull, a fresh Russian army forces the passes (Daryal Gorge, the Georgian Military Road), throws the small French Expeditionary Corps off the mountain line in three days, and drives on **Tbilisi** — **Georgia invaded, Armenia** (guaranteed since 1946) a campaign from being overrun.
+
+**Ukraine sealed:** as the northern offensive dies, the stripped Ukrainian front lies open. Reserves freed at Minsk flow south; **MISTRAL resumes (15 Aug), Kherson falls (16–18 Aug), the entire Dnieper right bank is cleared by month's end**; **CONDÉ** widens the Kyiv bridgehead and the drive turns northeast on **Sumy**.
+
+**The family.** **Andy** and **Chartres** (Baltic flank) and **Kermadec's anchor** hold the hinges that fix the Russian shoulders so they can't turn to meet the German blow. **Daniel** keeps the engineer's ledger of the holding battle at Daugavpils. **Élise** rolls off ground held motionless nine weeks when MISTRAL resumes (Lefebvre has the tank moving before the order finishes). **Joseph** turns the summer's weakness into the sealing of Ukraine.
+
+### SEPTEMBER 1986 — the Race for the Dnieper; the war decree; Joseph made CEMAT
+**The war.** The clock is the **October rasputitsa**: Joseph orders the south to **take everything before the mud takes the war away.** **The barges:** hundreds of river barges (requisitioned off the Vistula), pontoon rafts and ferries are gathered to throw three corps onto the Dnieper's left bank fast. **8–16 Sep — the great crossing**; **17–27 Sep — the deepest gains** (Sumy under the guns, Kharkiv's western approaches reached, **Odesa half-encircled as RICHELIEU opens**). **28 Sep–early Oct: the rains close it down** — the south consolidates on the deepest line reached, stopped by the season, not a starved reserve.
+- **The war decree — Décret N° 86-1058, 15 Sep:** born of the summer's two lessons (compounding losses; "nothing behind the line at Minsk"). It **replenishes the IIIe**, **raises a new VIe Corps** (the strategic reserve the summer proved indispensable), creates the **baccalauréat de guerre** (modelled on the German *Notabitur* — France borrowing the expedient of the ally that just saved her), and **conscripts 17-year-olds** (train at 17, deploy at 18). It "detonated but passed."
+- **Joseph → CEMAT.** A republic that gave up 200 km needs a corpse: the **2e Bureau chief (Gén. Vasseur) is relieved** for the intelligence/weather failure, but the political class wants a bigger one. **Joseph isn't the corpse** (his plan was sound, Lepiel destroyed the leading echelon, the withdrawal was controlled, the line at Minsk was the one he'd drawn). **The CEMAT, Vaudremont, takes the "Joffre exit"** — made **Maréchal de France** (the bâton) and retired — and the army reaches for Joseph. Because Lucie is President, **she recuses herself** (delegating to Quilès and the Conseil supérieur) so it isn't nepotism: "the generals choose the general who saved them."
+
+**The family.** **Joseph's first act as CEMAT is the decree — and it signs in his own nephew François** (Sophie's last son, born '69, in the 17-year-old cohort); he seeks no exemption. **Marc** goes forward with the Ve Corps (committed whole) into Ukraine, "his hands steadier in the work than in the quiet after his testimony." **Élise** crosses the Dnieper on the barges (her G4 craned onto a low-riding barge, Lefebvre standing in the open hatch over deep water). **Simon, Montpensier, Louis Henri** cross with the IVe. **Sophie cannot look at her brother for a long time** — his hand reached into her house twice (the withdrawal that left Charles in the trees was his plan; the decree that took François is his signature). **Constance** writes the **25-word ICRC message** (via the Swedish Embassy) telling the captured Georges he's a father: *"tu es père… un fils, Pierre Amédée… Tiens bon."*
+
+### OCTOBER – NOVEMBER 1986 — winter prep and the forcing of the Straits
+**The war.** Joseph decides to **fight through the winter** (no respite for a beaten-but-not-gone enemy) — Oct–Nov are small engagements through the mud while the new VIe forms and the south is restocked. **Étienne's winter of begging** raises a coalition Caucasus rescue capital by capital (London gives Royal Navy weight to the Med + a token land force; Berlin peels off a contingent; Warsaw a token) — the half-loaf that keeps Armenia breathing while the main weight stays north.
+- **November — the Marine Nationale forces the Turkish Straits.** The fleet (carrier **PAN Mordacq** + heavy bombardment squadron + amphibious troops) **forces the Dardanelles ("Gallipoli done right" — this time with the sky), shells Istanbul, breaks the Bosphorus, and opens the Black Sea.** Two payoffs: the **sea road to the Caucasus** (Batumi/Poti) and a **new sea supply line into southern Ukraine via Odesa** — "one freighter carried what a thousand trucks could not." The south is suddenly fed; Crimea and the Donbas become possible.
+
+**The family.** **Élise** feels the opened sea in the depots — "ammunition thickening, fuel no longer counted by the litre." **Paul** continues the silent Arctic war hunting Russian SSBNs (no decoration — "the submarine's war is silent"). **Étienne** spends "his pride a piece at a time" door to door.
+
+### WINTER 1986–87 → 1987 — Operation OURAGAN and the long tail
+**The war.** When the mud freezes hard, Joseph launches **OURAGAN — the largest combined-arms operation France ever mounted**: the **entire front struck in the same hour** (north + center + south) so a broken army has nowhere to send its last reserve. North (main effort): **AMBRE** in the Baltic, Kermadec's IIe off the anchor and attacking, and **GLAIVE crossing the old frontier — French soldiers on Russian soil for the first time since 1812.** Center: the IVe drives on **Kharkiv**. South (sea-fed at last): **TRIDENT** on Crimea/Sebastopol and **ACIER** into the Donbas. Struck everywhere at once, the Russian front **does not bend, it tears.**
+
+**The revised endgame (un-fixed — see Part C).** The earlier Dec-1986 ending and Lev's death are **disregarded.** The Russian army is broken **as an offensive force** at Second Minsk but stays **broken-but-defending**; the war **grinds into late 1987** — Europe is the victory, the Near East (the Caucasus rescue, the war on Turkey, the Straits) the long tail; the peace comes in **late autumn 1987**.
 
 ---
 
-## WHERE THE STORY IS LEFT (pick-up points)
-1. **The endgame** — Russia's collapse / the regime's fate / the final settlement (entirely open).
-2. **Penthièvre's return** from behind the lines as "Pan Karol."
-3. **Georges's repatriation** and meeting his son for the first time.
-4. **Mathieu & Gabriela's deaths** — timing reopened when the ending was un-fixed.
-5. **François's war** — posting deliberately unassigned.
-6. **The Near-East tail** — the Caucasus rescue, the war on Turkey, the Straits.
-7. **The Années de Plomb (1987→1990s)** — barely sketched.
+# PART B — FAMILY COMBAT LEDGER (each member's whole arc)
+
+**Élise Benattar Martin** — *501e RCC "Sidi-Brahim" (1re DB), tank commander → escadron CO.* **Sous-lt → Lt → Capitaine** (Kyiv); **Croix de Guerre ×3** (Ossów '84 / Rivne '85 / Kyiv '86 palme), **Chevalier LdH**, **Médaille des Blessés** (Kyiv concussion). Beats: first shots at Ossów (15:47, 31 Oct '84) → AURORE from Ossów → Kremenets (Jul '85) → Rivne → Uman (breaks the line, 19 Nov) → cold-cracked tanks/heating blankets → Kyiv (track mined at Khotiv; 3 G4s lost at Holosiivskyi, watches a crew burn; crosses on Georges's pontoon) → concussion at Vasylkiv → MISTRAL across the Inhulets (3 Jun '86) → stall at Kherson → Dnieper barge crossing → OURAGAN south. Crew: Lefebvre (driver), Garnier (gunner), Mercier (loader); Col. **Moisson**. Boyfriend **Rémi Caron** (Grandpuits refinery); wants a child.
+
+**Penthièvre — Charles d'Orléans** — *1er Cuirassiers (3e DB), tank commander → squadron → regiment → pocket → partisan.* **Sous-lt → Lt → Capitaine** (Kyiv); **CdG ×3, Chevalier LdH.** Beats: Saint-Cyr accelerated his class at Brześć; arrives ~J+12 '84; spearhead at Kielce & Małopolska (takes **Jarosław**, 4 May '85); leads into Lwów; loses 4 tanks at Smila (14 Dec); Uman; pivots 90° at Vitebsk (4 Jun '86); southern jaw at Lepiel; **at Mahilyow his CO is killed and he takes the regiment then the pocket**; tank knocked out at the Drut (Tanguy & Le Goff KIA, Mahé burned); **taken in by partisans → "Pan Karol"**, behind the lines all winter; **reported disparu.** Crew: driver **Mahé**. Friend: **"the Professor."**
+
+**Georges Diop** — *5e RG (engineers), bridging company CO.* **Sous-lt → Lt** (Kyiv). **CdG ×2** (Pripyat causeways / Dnieper pontoon). Beats: bridges the Radomka for AURORE; Przemyśl bridges; MARAIS corduroy roads; **the Bug crossing (holds a drowning sapper, 43 dead in six days)**; Berezina pontoons at −12°; **builds the Pripyat causeways** that enable the Kyiv envelopment; assault bridge at Bucha; **the 18-hour Dnieper pontoon under fire**; restores Podil's water; blows the Tallinn breach (16 May); seals the Lepiel salient; **captured on his own bridge at Choklovo → POW, paraded as a racial "circus exhibit," refuses to perform, does not know he's a father** until Constance's 25-word ICRC message. Father **Amadou Diop** (died on a steel casting floor); son **Pierre Amédée**.
+
+**Simon Benattar Martin** — *3e RI (IVe Corps), infantry.* **Soldat → Caporal → Caporal-chef**; **Médaille Militaire + CdG palme** (the Paton Bridge). Beats: turns 19 in a trench '84; AURORE on foot; MARAIS southern corridor; Pripyat (crosses first, reaches Dymer); **first kill in Obolon (7 Apr '86, the bathtub)**; **the Paton Bridge (47 of 120 across, bayonet assault)**; Mahilyow relief (falls short); Dnieper crossing; OURAGAN center toward Kharkiv. "Won't speak of the bridge for eleven years."
+
+**Marc Martin-Laurent** — *Jesuit chaplain (aumônier), Ier Corps rear → Ve Corps.* Rank unchanged; **CdG palme** (the Lavra — accepted, kept in a closed drawer). Beats: holds the dying behind Ossów; last rites ×11 at Minsk; Christmas Mass in Latin in a barn; **the Lavra (evacuates 409, the column fired on, takes a Nagant and never fires, shields a child) → permanent hand tremor**; **the Assemblée testimony (the trembling glass)**; the roofless "Martin Mass" (the seven); forward with the Ve into Ukraine.
+
+**Louis Henri Martin-Laurent** — *40e RA (IVe Corps), 155 mm gun-chief; député who voted oui then volunteered.* **Caporal → Caporal-chef → Sergent**; **CdG** (Pechersk fires). Beats: **"pulls the lanyard" opening AURORE**; fires the MISTRAL prep; the Pechersk fire missions over Kyiv; Mahilyow relief; the Dnieper crossing; OURAGAN center. Wartime son **"Loulou"** (Sylvie's "name-as-a-weapon" letter); daughters Lucie Fernande (1979), Marie-Claire (1982).
+
+**Andy (Andrew Charles) Carington** — *2nd Bn Coldstream Guards (British/Baltic).* **Captain → Major; Victoria Cross** (Königsberg, 17 Apr '85 — the footprint rescue; the George Cross never existed in KRTL). Beats: Wehlau river-probe ('84); the **Königsberg walk-in** (6 hours in the footprint) → **mild radiation sickness, Hanover/Scotland, recovered (no cancer, lifelong surveillance)**; medically released Oct '85, comes home, meets son **André**; recalled for the Baltic; leads through all three Tallinn lines (the surrender on Pikk St, 22 May '86); holds the seaward hinge at Second Minsk; OURAGAN/AMBRE.
+
+**Daniel Kowalski-Martin** — *13e RG (engineers, IIe Corps/Baltic).* **Caporal → Sergent**; **CdG** (Baltic MSR). Beats: clears the 501e's Ossów minefields for AURORE; MARAIS corduroy roads; **learns of daughter Claire-Marie when Minsk falls**; Türi MSR; **clears the 300 m Tallinn mine lane at night (11 May '86)**; holds the Daugavpils ledger at Second Minsk; bridges ahead in OURAGAN. Partner **Isabelle Ferreira**.
+
+**Paul Benattar Martin** — *SNA Casabianca (sonar → watch officer).* **EV2 → EV1.** The silent Arctic/Norwegian-Sea war hunting Russian SSBNs; letters released in batches in port; no decoration. Joseph tracks him only by phoning the Navy.
+
+**Chartres — Louis d'Orléans** — *152e RI (IIe Corps/Baltic), rifleman.* **Soldat 1C → Caporal**; **Croix du Combattant.** Holds the Daugavpils trench line; **pours through Georges's breach at Tallinn (16 May '86)**; honour guard for the Estonian government; OURAGAN north.
+
+**Montpensier — Philippe d'Orléans** — *110e RI then 3e RI (IVe Corps), rifleman ("the family at the bottom of the hierarchy").* **Soldat 2C → Soldat 1C**; **Croix du Combattant.** Arrives 12 Feb '86; the reunion with cousin Simon before the marshes; crosses the Paton Bridge on the second wave; Mahilyow relief; OURAGAN center. "Won't speak of the bridge for eleven years."
+
+**François d'Orléans (Joinville)** — Sophie's youngest; **conscripted under the 15 Sep '86 decree (17-year-old cohort), signed in by Joseph's own hand; posting deliberately left open** (trains at 17, deploys at 18 — the army of 1987).
+
+**Thierry Vasseur** — *réserve, replacement depot at Łódź (ex-figure-skater, bad ankle).* S/Lt de réserve; processes the replacements feeding the front (e.g. the 3e RI after the Paton). Wartime daughter **Esther Béatrice** with Sarah.
+
+**Joseph Henri Martin** — *the strategist (Brienne).* **Major-Général → 5th star (général d'armée, gazetted 24 Nov '85) → CEMAT (autumn '86).** Author of Plan XXI, AURORE, FOUDRE (Małopolska), MARAIS, DAVOUT, VARANGIENNE, the summer reorientation, and OURAGAN; **never fires a shot**; keeps the red notebook of the dead; signs the arctic-stove requisition and the war decree (and his own nephew into service). Placed beside Moltke/Grant/Kléber.
+
+**Lucie** — *President / C-in-C.* The six counter-force strikes (Oct '84); the four deferrals; the **four-city retaliation** (19 Apr '85); moves the war aim to the pre-1941 borders; approves DAVOUT; **recuses herself on Joseph's CEMAT appointment.** Mother of Constance, Nounette, Louis Henri, Marc, Pierre, Charlot.
+
+**Étienne** — *Foreign Minister.* Delivers the declaration; the diplomatic counsel on the strikes; **the Caucasus "begging tour"** (the Armenian guarantee); the procedural shield for Marc; the promise to deliver any news to Georges's grandmother himself.
+
+**The home front (the waiting):** **Constance** (BNP analyst; crushed by the *disparu* telegram, buries herself in work, writes the ICRC message); **Nounette** (architect; carries the news of André for Andy's homecoming); **Sarah, Isabelle, Sylvie** (the other waiting mothers); and **the five "enfants du dernier soir"** — **André Carington, Loulou Martin-Laurent, Claire-Marie, Pierre Amédée Diop, Esther Béatrice** — born summer–autumn 1985 while their fathers fight, several fathers not knowing.
 
 ---
-*Narrative-only handover. Worldbuilding/canon detail assumed held by the destination chat.*
+
+# PART C — CONTINUITY: LOCKED vs. UN-FIXED
+
+**Un-fixed (do NOT use — superseded):** the war ending in Dec 1986; **Lev Borisovich's death (15 Dec 1986)**; the autumn-1986 mutiny/collapse schedule (Petrograd→Urals→Moscow); François tied to the Dardanelles. → **The war runs into late 1987; the endgame is unwritten.**
+
+**Locked:** Battle of Warsaw is original (no 1920 echo), held by AA not air supremacy, honour **OSSÓW 1984**. Königsberg = the **Russian** nuclear strike (17 Apr '85), distinct from the French Kronstadt counter-force strike (22 Oct '84). Four retaliation cities = **Kaluga, Savinkovgrad, Novgorod, Rostov** (2-for-1). Andy = **VC for Königsberg**, mild radiation, **Captain→Major**, no cancer. Joseph = never fires a shot → **5th star Nov '85 → CEMAT autumn '86**. Penthièvre = **captured at Mahilyow → partisan "Pan Karol"**, *not a hero*, name **d'Orléans** (not d'Orléans-Vendôme). Georges = **POW "circus exhibit,"** doesn't know he's a father; son **Pierre Amédée** (Amadou barred by the naming law). Second Minsk relief = **Anglo-German** (British seaward flank from July; fresh German army strikes 10 Aug). Straits forced **Nov '86** (opens the Caucasus sea road + the Odesa supply line). Casualties: ~22k (end Oct '85) → ~50k (end Jan '86, recalibrated) → ~51.5k (end Feb '86); **VARANGIENNE ~12,800 French dead.**
+
+**Open contradictions to reconcile (flagged in source):**
+1. **Penthièvre at Second Minsk vs. captured at Mahilyow.** A set-piece exists of "Chafi" writing Mathieu from the ridge east of Minsk (the Coq-and-Eagle / German-relief letter) — but the locked arc has him captured at Mahilyow in late June/July and behind the lines all winter, so he **cannot** be at Minsk in August. Decide whether the Minsk letter is repositioned (written earlier, or by a different brother) or cut.
+2. **The five "dernier soir" babies** appear as four in one pass and with different names in another (e.g. "Amadou Pierre" vs "Pierre Amédée Diop," "Mathilde/David" earlier). The names above are the latest.
+3. **Sophie's parentage** (Mathieu's daughter vs. elsewhere) and **Lucie's election year** (1978 vs 1983) remain unsettled in the source.
+
+---
+*Granular handover. The corpus ends mid-sentence on a context-window error; the late acts are unfinished.*
